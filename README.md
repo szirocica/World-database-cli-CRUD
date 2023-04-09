@@ -1,15 +1,15 @@
 # World-database-cli-CRUD
 Cli CRUD application in perl
 
-How to run:
--Open xampp, start MySql
--Open localhost in your favorite browser
--Create database by importing world_x.sql
+How to run:<br>
+-Open xampp, start MySql<br>
+-Open localhost in your favorite browser<br>
+-Create database by importing world_x.sql<br>
 
--If you don't have, download perl preferably 5.14
--Install DBD::mysql Module:
-  C:\>perl -MCPAN -e shell
-  cpan> install DBD:mysql
+-If you don't have, download perl preferably 5.14<br>
+-Install DBD::mysql Module:<br>
+  C:\>perl -MCPAN -e shell<br>
+  cpan> install DBD:mysql<br>
   
--run by:
-    perl .\world_database_cli.pl -w
+-run by:<br>
+    perl .\world_database_cli.pl -w<br>
